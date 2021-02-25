@@ -1,8 +1,8 @@
 # midineotrellispico
- Use an Adafruit Neotrellis as a simple MIDI controller hooked up to a Raspberry Pi Pico
+ Use an Adafruit Neotrellis and a Raspberry Pi Pico as a simple MIDI controller 
 
 # Requirements 
- You'll need CircuitPython running on your Pico to use this project. Once cloned, just copy `code.py` to the `CIRCUITPY` drive mounted to your computer and add all the      libraries into the `lib` folder.
+ You'll need CircuitPython running on your Pico to use this project. Once cloned, just copy `code.py` to the `CIRCUITPY` drive mounted to your computer and add all the libraries into the `lib` folder.
 
  These libraries are required to get started:
 
